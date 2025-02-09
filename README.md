@@ -6,5 +6,5 @@
 
 
 
-### Excursion
+### [Excursion](/01_excursions/index.html)
   Landing page for an app 
