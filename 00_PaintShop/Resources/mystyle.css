@@ -1,0 +1,32 @@
+header {
+    background-image: url("../Resources/img/pattern.jpeg");
+    background-position: center;
+    background-size: cover;
+}
+h1 {
+    font-family: Helvetica, sans-serif;
+    font-size: 101px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+}
+h2 {
+    font-family: Helvetica, sans-serif;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+h2.green {
+    background-color: mediumspringgreen;
+}
+h2.red {
+    background-color: lightcoral;
+}
+h2.blue {
+    background-color: skyblue;
+}
+span {
+    font-family: Helvetica, sans-serif;
+    font-weight: bold;
+    color: blue;
+}
