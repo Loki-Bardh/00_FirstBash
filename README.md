@@ -6,5 +6,5 @@
 
 
 
-### [Excursion](/01_Excursions/index.html)
+### [Excursion](/00_FirstBash/01_Excursions/index.html)
   Landing page for an app 
