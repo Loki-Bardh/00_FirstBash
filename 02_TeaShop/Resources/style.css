@@ -1,6 +1,5 @@
 * {
     font-family: Helvetica, sans-serif;
-    Font-size: 22px;
     color: seashell;
     background-color: black;
     opacity: 0.9;
@@ -9,6 +8,7 @@
 
 nav {
     position: sticky;
+    top: 0px;
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -21,4 +21,28 @@ nav {
 .quickLink {
     padding-left: 16px;
     text-decoration: underline;
+    font-size: 1.4rem;
+}
+section.mission {
+    display: flex;
+    max-height: 700px;
+    max-width: 1200px;
+    position: relative;
+    
+}
+.monthSelection {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.teaMonth {
+    display: flex;
+    flex-direction: column;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 10px;
+}
+.preview {
+    height: 200px;
+    width: 300px;
 }
